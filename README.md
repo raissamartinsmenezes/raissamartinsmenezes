@@ -12,7 +12,13 @@
 </a>
 
 ***
-hi! i'm a woman in tech from brazil 🇧🇷 | dev mobile jr. at [Concrete Solutions](https://medium.com/concretebr) 📱 | front-end teacher and monitor at {[reprograma](https://reprograma.com.br/equipe.html)} 💜 | booker 📚 and art 🎨 lover 🖤
+a woman in tech from brazil 🇧🇷 
+
+dev mobile jr. at [Concrete Solutions](https://medium.com/concretebr) 📱 
+
+front-end teacher and monitor at {[reprograma](https://reprograma.com.br/equipe.html)} 💜 
+
+booker 📚 and art 🎨 lover 🖤
 
 ***
 #### Languages and Tools:
