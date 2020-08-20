@@ -1,10 +1,10 @@
 ### Hi there! I'm Raissa 👋
 <a target="_blank" href="https://www.linkedin.com/in/raissamartinsmenezes/">
-  <img alt="LinkdeIN" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img alt="LinkdeIN" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <a target="_blank" href="https://medium.com/@raissamartinsmenezes">
-  <img alt="Devto" width=25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+  <img alt="Devto" width=20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
 <a target="_blank" href="https://dev.to/raissamartinsmenezes">
