@@ -1,6 +1,6 @@
 ### Hi there! I'm Raissa 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raissamartinsmenezes)](https://www.linkedin.com/in/raissamartinsmenezes)
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-linkedin.com/in/raissamartinsmenezes-black)](https://www.linkedin.com/in/raissamartinsmenezes)
 [![Medium Badge](https://img.shields.io/badge/Medium-medium.com/@raissamartinsmenezes-black)](https://medium.com/@raissamartinsmenezes)
 [![DEV Badge](https://img.shields.io/badge/DEV-dev.to/raissamartinsmenezes-black)](https://dev.to/raissamartinsmenezes)
 
