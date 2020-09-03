@@ -7,7 +7,7 @@
 ***
 a woman in tech from brazil 🇧🇷 
 
-dev front-end & mobile jr. at [Concrete Solutions](https://medium.com/concretebr) 📱 
+dev front-end jr. at [Concrete Solutions](https://medium.com/concretebr) 📱 
 
 front-end monitor at [{reprograma}](https://reprograma.com.br/equipe.html) 💜 
 
