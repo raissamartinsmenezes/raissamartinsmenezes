@@ -9,7 +9,7 @@ a woman in tech from brazil 🇧🇷
 
 dev front-end & mobile jr. at [Concrete Solutions](https://medium.com/concretebr) 📱 
 
-front-end teacher and monitor at [{reprograma}](https://reprograma.com.br/equipe.html) 💜 
+front-end monitor at [{reprograma}](https://reprograma.com.br/equipe.html) 💜 
 
 book 📚 and art 🎨 lover 🖤
 
