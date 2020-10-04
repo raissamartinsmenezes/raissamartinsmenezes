@@ -7,7 +7,7 @@
 ***
 a woman in tech from brazil 🇧🇷 
 
-dev front-end at [Zee.Dog](https://www.zeedog.com.br/) 📱 
+dev front-end at [Zee.Dog](https://www.zeedog.com.br/) 🐾
 
 front-end monitor at [{reprograma}](https://reprograma.com.br/equipe.html) 💜 
 
