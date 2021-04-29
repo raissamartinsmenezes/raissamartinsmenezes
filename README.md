@@ -4,8 +4,6 @@ a woman in tech from brazil 🇧🇷
 
 dev front-end at [Zee.Dog](https://www.zeedog.com.br/) 🐾
 
-front-end monitor at [{reprograma}](https://reprograma.com.br/equipe.html) 💜 
-
 book 📚 and art 🎨 lover 🖤
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-linkedin.com/in/raissamartinsmenezes-black)](https://www.linkedin.com/in/raissamartinsmenezes)
