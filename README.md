@@ -1,6 +1,6 @@
 ### Hi there! I'm Raissa 👋
 
-a woman in tech from brazil 🇧🇷 
+a woman in tech 👩🏻‍💻  
 
 dev front-end at [Zee.Dog](https://www.zeedog.com.br/) 🐾
 
