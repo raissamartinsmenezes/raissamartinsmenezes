@@ -3,7 +3,7 @@
 
 a woman in tech 👩🏻‍💻  
 
-dev front-end at [iFood](https://www.ifood.com.br/) 🐾
+dev front-end at [iFood](https://www.ifood.com.br/) 🍔
 
 book 📚 and art 🎨 lover 🖤
 
